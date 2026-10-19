@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./header.svg" alt="Abdelrahman GitHub Header" width="100%">
-</div>
+<img src="header.svg" alt="Abd Elrahman Faruok" width="100%">
 
 ---
 
