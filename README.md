@@ -19,9 +19,45 @@
 ![Snort](https://img.shields.io/badge/Snort_IDS-000000?style=flat-square&logo=snort&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amfaruok&show_icons=true&locale=en&layout=compact" alt="amfaruok" /></p>
+✦ GitHub Analytics Center
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amfaruok&show_icons=true&locale=en" alt="amfaruok" /></p>
+<div align="center">
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=AMfaruok&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Abdo%20Topuz%20GitHub%20Stats" />
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMfaruok&layout=compact&theme=algolia&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" />
+
+<br/>
+
+<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=AMfaruok&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
+<br/>
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=AMfaruok&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" />
+
+</div>
+
+
+# ✦ Connect
+
+<div align="center">
+
+<a href="https://github.com/AMfarouk">
+<img src="https://img.shields.io/badge/GitHub-AMfarouk-020617?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="[https://www.linkedin.com/in/pinardev](https://www.linkedin.com/in/abd-elrahman-faruok-30a0a0235/)">
+<img src="https://img.shields.io/badge/LinkedIn-Abd Elrahman Faruok-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:abdofaruok090@gmail.com">
+<img src="https://img.shields.io/badge/Email-abdofaruok090@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
 
 - 🌱 I’m currently learning **Web Pentesting and Ethical Hacking**
 
