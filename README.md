@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<a href="https://github.com/AMfarouk">
+<a href="[https://github.com/AMfarouk](https://github.com/AMfaruok)">
 <img src="https://img.shields.io/badge/GitHub-AMfarouk-020617?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
