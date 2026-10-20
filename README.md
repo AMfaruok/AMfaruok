@@ -31,10 +31,6 @@
 
 <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=AMfaruok&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
-<br/>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=AMfaruok&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" />
-
 </div>
 
 
