@@ -42,11 +42,11 @@
 
 <div align="center">
 
-<a href="[https://github.com/AMfarouk](https://github.com/AMfaruok)">
+<a href="https://github.com/AMfarouk">
 <img src="https://img.shields.io/badge/GitHub-AMfarouk-020617?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="[https://www.linkedin.com/in/pinardev](https://www.linkedin.com/in/abd-elrahman-faruok-30a0a0235/)">
+<a href="https://www.linkedin.com/in/abd-elrahman-faruok-30a0a0235/">
 <img src="https://img.shields.io/badge/LinkedIn-Abd Elrahman Faruok-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
