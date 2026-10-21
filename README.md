@@ -21,18 +21,9 @@
 
 # ✦ GitHub Analytics Center
 
-<div align="center">
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=AMfaruok&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Abdo%20Topuz%20GitHub%20Stats" />
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMfaruok&layout=compact&theme=algolia&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" />
-
-<br/>
-
-<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=AMfaruok&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-</div>
-
+![AMfaruok's Stats](https://github-readme-stats.vercel.app/api?username=AMfaruok&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+![AMfaruok's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AMfaruok&theme=nightowl&hide_border=true)
+![AMfaruok's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMfaruok&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
 # ✦ Connect
 
